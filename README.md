@@ -18,6 +18,7 @@ o System indicates normal operation.
 o Red LED turns ON.
 o Buzzer activates.
 o Warning message is displayed or transmitted.
+
 Future scope:
 The Smart Multi-Parameter Industrial Safety System can be further enhanced by integrating
 cloud computing, artificial intelligence, mobile applications, and advanced sensing
